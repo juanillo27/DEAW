@@ -4,4 +4,4 @@ Juan Francisco González Rosal 2DAW
 | ----------- | ----------- |
 | Jose Molina | [Enlace](https://github.com/Josemmolina)  |
 | Igor Morozanu | [Enlace](https://github.com/igorIES) |
-| Daniel vincent | [Enlace](https://github.com/igorIES) |
+| Daniel vincent | [Enlace](https://github.com/dviclun) |
